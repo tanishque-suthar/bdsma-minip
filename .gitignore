@@ -1,0 +1,26 @@
+# Agent and MCP configs
+.agents/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data and archive files
+data/
+*.zip
+*.csv
+
+# Report and related files
+report/
+micro_project_report.*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
